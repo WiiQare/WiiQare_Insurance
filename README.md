@@ -7,7 +7,9 @@ so incoming funds will be staked tokens from underwriters and profit earned from
 
 A sample architecture diagram can be seen (here)[docs/Decentralized_Insurance_Model_WiiQare.pdf]. 
 
-## Dependencies
+
+## Dependencies
+
 * ganache-cli
 
 
