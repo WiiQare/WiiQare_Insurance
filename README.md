@@ -7,15 +7,15 @@ so incoming funds will be staked tokens from underwriters and profit earned from
 
 A sample architecture diagram can be seen (here)[docs/Decentralized_Insurance_Model_WiiQare.pdf]. 
 
+## Dependencies
+* ganache-cli
+
 
 ## Smart contracts setup
 
-Dependencies: 
-* ganache-cli
-
 Start ganache - `ganache-cli`
 
-In another terminal window: 
+In another terminal window, run the following commands: 
 
 Install dependencies - `npm i`
 
